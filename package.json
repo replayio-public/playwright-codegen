@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@playwright/test": "^1.44.0",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "@replayio/playwright": "^3.0.0-alpha.11"
+  }
+}
