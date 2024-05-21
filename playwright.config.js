@@ -10,8 +10,8 @@ dotenv.config();
 export default defineConfig({
   reporter: [
     replayReporter({
-      apiKey: process.env.REPLAY_API_KEY,
-      upload: true,
+      // apiKey: process.env.REPLAY_API_KEY,
+      // upload: true,
     }),
     ["line"],
   ],
